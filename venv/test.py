@@ -1,1 +1,2 @@
-print("this is first python")
+import math
+print("hello.world")

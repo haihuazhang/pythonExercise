@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Program Files\\Python36\\python.exe"
+    "python.pythonPath": "C:\\Program Files\\Python36\\python.exe",
+    "python.linting.pylintPath": "C:/Users/81043/AppData/Roaming/Python/Python36/Scripts/pylint.exe"
 }
